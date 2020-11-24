@@ -1,5 +1,8 @@
 # Twelve-Factor Applications with Liberty [![Build Status](https://travis-ci.org/WASdev/sample.microservices.12factorapp.svg?branch=master)](https://travis-ci.org/WASdev/sample.microservices.12factorapp)
 
+**This repository is no longer being maintained and has been archived. It is left for reference and available for use as-is with the advisory that it depends old dependencies which may have security vulnerabilties.**
+
+
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
 
 This GitHub repository contains an example of a Twelve-Factor application. This is the corresponding sample to the post on [WASDev](https://developer.ibm.com/wasdev/) titled [Creating a 12-factor application with WAS Liberty](https://developer.ibm.com/wasdev/docs/creating-a-12-factor-application-with-was-liberty/). It is a very simple application that was created to examine the characteristics of a Twelve-Factor application.
